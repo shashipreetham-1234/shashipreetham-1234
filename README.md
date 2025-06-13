@@ -1,13 +1,27 @@
   <h1 align="center">Hi 👋, I'm S. Shashi Preetham Reddy</h1>
 
-## 🧑‍💻 About Me:
-Hello, I’m S. Shashi Preetham Reddy, ❤️ Web-Developer, Competitive Coder and Machine Learning enthusiast.  
-I have rich experience in website design & customization.  
-I enjoy working with different languages and frameworks and love exploring new tech ✨.
+  
+  ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30" style="vertical-align:middle;"/> About Me:
+
+ 
+
+<table>
+  <tr>
+    <td width="60%">
+      Hello, I’m <strong>S. Shashi Preetham Reddy</strong>, ❤️ Web-Developer, Competitive Coder and Machine Learning enthusiast.<br><br>
+      I have rich experience in website design & customization.<br><br>
+      I enjoy working with different languages and frameworks and love exploring new tech ✨.
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Languages & Tools:
+
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,11 +41,12 @@ I enjoy working with different languages and frameworks and love exploring new t
 ---
 
 ### 📫 Reach Me On:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/s.shashipreethamreddy )
-[![Gmail](https://img.shields.io/badge/Gmail-sshashipreethamreddy@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sshashipreethamreddy.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/s.shashipreethamreddy)
+[![Gmail](https://img.shields.io/badge/Gmail-sshashipreethamreddy@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sshashipreethamreddy@gmail.com)
 
 ---
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
-
